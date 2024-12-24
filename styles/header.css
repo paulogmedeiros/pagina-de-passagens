@@ -18,6 +18,13 @@ header {
     color: var(--text-color-primary);
 }
 
+#profile img {
+    width: 176;
+    height: 176px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 #profile p {
     text-align: justify;
 }
